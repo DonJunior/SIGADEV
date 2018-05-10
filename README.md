@@ -1,2 +1,2 @@
 ﻿# SIGADEV
-Fontes desenvolvidos para o grupo SIGADEV
+Fontes compartilhados no grupo SIGADEV
