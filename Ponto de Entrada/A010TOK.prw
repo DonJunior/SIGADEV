@@ -2,7 +2,7 @@
 // -----------+------------------+-----------------------------------------------------------------
 // Data       | Autor: 	         | Descricao
 // -----------+------------------+-----------------------------------------------------------------
-// 04/07/2018 | Don Carvalho     | Ponto Entrada para validações após a confirmação da inclusão ou
+// 04/07/2018 | Don Junior       | Ponto Entrada para validações após a confirmação da inclusão ou
 //            |                  | alteração, antes da gravação do Produto.
 // -----------+------------------+-----------------------------------------------------------------
 
