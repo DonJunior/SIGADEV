@@ -3,6 +3,10 @@ Rotinas para operações com binários e cálculo de CRC-16
 
 ![Badge em Concluído](http://img.shields.io/static/v1?label=STATUS&message=CONCLUÍDO&color=GREEN&style=for-the-badge)
 
+
+![Print de validação com CRC gerado](https://github.com/DonJunior/SIGADEV/blob/96011b6e9f9517e65a839756e0e1ea69c82c7271/CRC-16-CCITT-FFFF/img/teste.png?raw=true)
+
+
 ## 🔨 Projeto
 > Realizar o cálculo do CRC-16 utilizado no QrCode de pagamentos na modalidade PIX
 
