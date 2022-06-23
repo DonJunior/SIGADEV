@@ -10,6 +10,7 @@ Rotinas para operações com binários e cálculo de CRC-16
 ## 🔨 Projeto
 > Realizar o cálculo do CRC-16 utilizado no QrCode de pagamentos na modalidade PIX
 
+- Link calculadora online para testes - http://www.zorc.breitbandkatze.de/crc.html
 
 ## Rotinas
 
