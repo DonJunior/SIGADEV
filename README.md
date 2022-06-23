@@ -18,7 +18,11 @@ Fontes desenvolvidos e compartilhados nos grupos de WhatsApp e fóruns.
     <summary><a href="https://github.com/DonJunior/SIGADEV/tree/master/Bat">Scripts</a></summary>
   </details>  
   <details>
-    <summary><a href="https://github.com/DonJunior/SIGADEV/tree/master/Email">Tools</a></summary>
+    <summary><a href="https://github.com/DonJunior/SIGADEV/tree/master/Email">Email</a></summary>
+  </details>  
+
+  <details>
+    <summary><a href="https://github.com/DonJunior/SIGADEV/tree/master/CRC-16-CCITT-FFFF">CRC-16</a></summary>
   </details>  
 
 ## Colaboradores
