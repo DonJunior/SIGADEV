@@ -1,6 +1,8 @@
 ﻿# CRC-16-CCITT-FFFF em ADVPL
 Rotinas para operações com binários e cálculo de CRC-16
 
+            A utilização deste projeto é livre, use por sua CONTA e RISCO !
+
 ![Badge em Concluído](http://img.shields.io/static/v1?label=STATUS&message=CONCLUÍDO&color=GREEN&style=for-the-badge)
 
 
@@ -21,7 +23,6 @@ Rotinas para operações com binários e cálculo de CRC-16
       <summary>xCRC16.prw</summary>
   </details>  
 
-  
 
 ## Colaboradores
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-blue.svg?style=flat-square)](#contributors-)
